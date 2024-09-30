@@ -1,15 +1,14 @@
 import React from "react"
-import Router3 from "./router3"
+import FromSelectFile from './form-select-file'
 function App() {
   return (
     <>
-      <Router3 />
+      <FromSelectFile />
 
     </>
   )
 }
 export default App
-    
     
 
   
